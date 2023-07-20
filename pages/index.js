@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="ideafridge" />
         <p className="description">
-          Building infrastructure that helps teams grow</code>
+          Building infrastructure that helps teams grow
         </p>
       </main>
 
