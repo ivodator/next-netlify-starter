@@ -13,7 +13,13 @@ export default function Home() {
       <main>
         <Header title="ideafridge" />
         <p className="description">
-          Building infrastructure that helps teams grow
+          Building infrastructure that helps Enterprise B2B teams grow
+      </ br>
+          Data cleaning and enrichment
+      </ br>
+          Reporting and analytics
+      </ br>
+          Tool building and implementation
         </p>
       </main>
 
